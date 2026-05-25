@@ -3,6 +3,7 @@ An AI-powered SMS spam detection web app built with Streamlit, scikit-learn, and
 
 📸 Demo
 
+<img width="1911" height="1140" alt="image" src="https://github.com/user-attachments/assets/5ddc74ad-9d48-4e27-8bb0-6f82861e5812" />
 
 
 🌐 Live Demo
