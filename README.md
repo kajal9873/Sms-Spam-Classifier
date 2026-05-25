@@ -5,6 +5,11 @@ An AI-powered SMS spam detection web app built with Streamlit, scikit-learn, and
 
 Paste a message → Click Analyze Message → Get instant spam/ham verdict with confidence percentage.
 
+🌐 Live Demo
+
+GitHub Repository: https://github.com/kajal9873/Image-Caption-Generator
+
+Deploy on Streamlit Cloud: https://sms-spam-classifier-6gdd2kkgaud6jvzrqyqghz.streamlit.app/
 
 🚀 Features
 
