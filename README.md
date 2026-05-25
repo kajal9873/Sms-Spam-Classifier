@@ -3,7 +3,7 @@ An AI-powered SMS spam detection web app built with Streamlit, scikit-learn, and
 
 📸 Demo
 
-Paste a message → Click Analyze Message → Get instant spam/ham verdict with confidence percentage.
+
 
 🌐 Live Demo
 
