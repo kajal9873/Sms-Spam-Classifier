@@ -7,7 +7,7 @@ Paste a message → Click Analyze Message → Get instant spam/ham verdict with 
 
 🌐 Live Demo
 
-GitHub Repository: https://github.com/kajal9873/Image-Caption-Generator
+GitHub Repository: https://github.com/kajal9873/Sms-Spam-Classifier.git
 
 Deploy on Streamlit Cloud: https://sms-spam-classifier-6gdd2kkgaud6jvzrqyqghz.streamlit.app/
 
